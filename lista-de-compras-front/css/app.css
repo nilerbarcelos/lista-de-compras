@@ -1,0 +1,9 @@
+#lista-compras {
+	width: 80%;
+}
+#lista-compras th {
+	text-align: center;
+}
+#lista-compras .valor{
+	text-align: right;
+}
